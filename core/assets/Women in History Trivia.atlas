@@ -1,0 +1,66 @@
+
+Women in History Trivia.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1353, 1353
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 1, 361
+  size: 393, 103
+  split: 55, 57, 0, 0
+  pad: 23, 23, 7, 7
+  orig: 393, 103
+  offset: 0, 0
+  index: -1
+button-pressed
+  rotate: false
+  xy: 927, 1077
+  size: 393, 103
+  split: 55, 57, 0, 0
+  pad: 23, 23, 7, 7
+  orig: 393, 103
+  offset: 0, 0
+  index: -1
+font-export
+  rotate: false
+  xy: 644, 508
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1, 466
+  size: 641, 217
+  orig: 641, 217
+  offset: 0, 0
+  index: -1
+question-font-export
+  rotate: false
+  xy: 927, 1182
+  size: 424, 426
+  orig: 424, 426
+  offset: 0, 0
+  index: -1
+title-font-export
+  rotate: false
+  xy: 1, 685
+  size: 924, 923
+  orig: 924, 923
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 1, 358
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

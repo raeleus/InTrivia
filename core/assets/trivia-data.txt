@@ -1,0 +1,255 @@
+{
+"title": "Women in History",
+"questions": [
+	{
+		"question": "The first woman to have flown in space",
+		"answers": [
+			"Who is Anna Pavlova?",
+			"Who is Martina Navratilova?",
+			"Who is Valentina Tereshkova?",
+			"Who is Alina Zagitova?"
+		],
+		"correctIndex": 2
+	},
+	{
+		"question": "The year women were granted the right to vote",
+		"answers": [
+			"What is the year 1900?",
+			"What is the year 1920?",
+			"What is the year 1940?",
+			"What is the year 1960?"
+		],
+		"correctIndex": 1
+	},
+	{
+		"question": "The author of Frankenstein",
+		"answers": [
+			"Who is Anne Frank?",
+			"Who is Jane Austen?",
+			"Who is J. K. Rowling?",
+			"Who is Mary Shelley?"
+		],
+		"correctIndex": 3
+	},
+	{
+		"question": "A Nobel Prize winning physicist and chemist",
+		"answers": [
+			"Who is Marie Curie?",
+			"Who is Susan B. Anthony?",
+			"Who is Emily Dickinson?",
+			"Who is Helen Keller?"
+		],
+		"correctIndex": 0
+	},
+	{
+		"question": "The last pharoah of ancient Egypt",
+		"answers": [
+			"Who is Susanna Hoffs?",
+			"Who is Nefertiti?",
+			"Who is Cleopatra?",
+			"Who is Anaksunamun?"
+		],
+		"correctIndex": 2
+	},
+	{
+		"question": "A Jewish diarist who went into hiding to escape the Nazis",
+		"answers": [
+			"Who is Anne Hathaway?",
+			"Who is Anne Frank?",
+			"Who is Anna Kournikova?",
+			"Who is Anna Karina?"
+		],
+		"correctIndex": 1
+	},
+	{
+		"question": "A talk show host and philanthropist who is most well known for her titular TV show",
+		"answers": [
+			"Who is Jessica Chastain?",
+			"Who is Whoopi Goldberg?",
+			"Who is Lucy Lawless?",
+			"Who is Oprah Winfrey?"
+		],
+		"correctIndex": 3
+	},
+	{
+		"question": "The author of the famous Harry Potter series of books",
+		"answers": [
+			"Who is J. K. Rowling?",
+			"Who is Anne Frank?",
+			"Who is Jane Austen?",
+			"Who is Mary Shelley?"
+		],
+		"correctIndex": 0
+	},
+	{
+		"question": "Actress and inventor whose work led to the creation of Bluetooth and WiFi",
+		"answers": [
+			"Who is Marilyn Monroe?",
+			"Who is Heddy Lamar?",
+			"Who is Bette Davis?",
+			"Who is Jane Fonda?"
+		],
+		"correctIndex": 1
+	},
+	{
+		"question": "Famed English author of Sense and Sensibility, Pride and Prejudice, and Emma",
+		"answers": [
+			"Who is J. K. Rowling?",
+			"Who is Jane Austen?",
+			"Who is Anne Frank?",
+			"Who is Mary Shelley?"
+		],
+		"correctIndex": 1
+	},
+	{
+		"question": "Abolitionist and women’s rights activist who paved the way for women’s suffrage",
+		"answers": [
+			"Who is Patty Jenkins?",
+			"Who is Audrey Hepburn?",
+			"Who is Aretha Franklin?",
+			"Who is Susan B. Anthony?"
+		],
+		"correctIndex": 3
+	},
+	{
+		"question": "The right to vote in political elections",
+		"answers": [
+			"What is judiciousness?",
+			"What is escrow?",
+			"What is suffrage?",
+			"What is deposition?"
+		],
+		"correctIndex": 2
+	},
+	{
+		"question": "American poet who secretly wrote close to 1,800 poems in her lifetime",
+		"answers": [
+			"Who is Emily Dickinson?",
+			"Who is Anne Frank?",
+			"Who is Jane Austen?",
+			"Who is J. K. Rowling?"
+		],
+		"correctIndex": 0
+	},
+	{
+		"question": "Deaf and blind at an early age, she was an author, lecturer, and activist for the deaf and blind",
+		"answers": [
+			"Who is Helen Woodward?",
+			"Who is Helen Hunt?",
+			"Who is Helen Troy?",
+			"Who is Helen Keller?"
+		],
+		"correctIndex": 3
+	},
+	{
+		"question": "Aviator and first woman to fly solo across the Atlantic Ocean",
+		"answers": [
+			"Who is Amelia Earhart?",
+			"Who is Donna Flifar?",
+			"Who is Gena Plyanride?",
+			"Who is Lauren Skisole?"
+		],
+		"correctIndex": 0
+	},
+	{
+		"question": "A civil rights activist most known for resisting bus segregation by not giving up her seat",
+		"answers": [
+			"Who is Susan B. Anthony?",
+			"Who is Rosa Parks?",
+			"Who is Harriet Tubman?",
+			"Who is Jane Goodall?"
+		],
+		"correctIndex": 1
+	},
+	{
+		"question": "A professional American tennis player often cited as the greatest female player of all time",
+		"answers": [
+			"Who is Laila Ali?",
+			"Who is Gina Carano?",
+			"Who is Serena Williams?",
+			"Who is Gal Gadot?"
+		],
+		"correctIndex": 2
+	},
+	{
+		"question": "Conservationist considered by many to be the foremost expert on chimpanzees",
+		"answers": [
+			"Who is Jane Austen?",
+			"Who is Jane Goodall?",
+			"Who is Jane Fonda?",
+			"Who is Jane Foster?"
+		],
+		"correctIndex": 1
+	},
+	{
+		"question": "An early civil rights activist and humanitarian",
+		"answers": [
+			"Who is Harriet Tubman?",
+			"Who is Jane Goodall?",
+			"Who is Aretha Franklin?",
+			"Who is Kathryn Bigelow?"
+		],
+		"correctIndex": 0
+	},
+	{
+		"question": "A cultural icon from World War II that inspired women to take new jobs normally held by men",
+		"answers": [
+			"Who is Lucy the Loader?",
+			"Who is Mary the Machinist?",
+			"Who is Rosie the Riveter?",
+			"Who is Candy the Carpenter?"
+		],
+		"correctIndex": 2
+	},
+	{
+		"question": "An interpreter who aided the Lewis and Clark Expedition",
+		"answers": [
+			"Who is Pocahontas?",
+			"Who is Sacagawea?",
+			"Who is Maria Tallchief?",
+			"Who is Ada Deer?"
+		],
+		"correctIndex": 1
+	},
+	{
+		"question": "The condition of being deprived of a right such as the right to vote",
+		"answers": [
+			"What is fraternization?",
+			"What is disparate?",
+			"What is disenfranchisement?",
+			"What is suffering?"
+		],
+		"correctIndex": 2
+	},
+	{
+		"question": "Coined in the 1920’s, a generation of women who listened to Jazz and behaved against convention",
+		"answers": [
+			"Who were the hipsters?",
+			"Who were the flappers?",
+			"Who were the suffragettes?",
+			"Who were the beliebers?"
+		],
+		"correctIndex": 1
+	},
+	{
+		"question": "Women who speak out for the women's right to vote",
+		"answers": [
+			"What is the franchisement board?",
+			"Who are the flappers?",
+			"What is the League of Exceptional Women?",
+			"Who are the suffragettes?"
+		],
+		"correctIndex": 3
+	},
+	{
+		"question": "A belief that advocates equal rights for women",
+		"answers": [
+			"What is sisterhood?",
+			"What is the fifth ammendment?",
+			"What is feminism?",
+			"What is the lodge of womanly interests?"
+		],
+		"correctIndex": 2
+	}
+]
+}
